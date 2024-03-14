@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1710416749 source:c:\users\ive1\onedrive\바탕 화면\로또번호\main.cpp
+	<iostream>
+	<windows.h>
+	<algorithm>
+	<conio.h>
+
